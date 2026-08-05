@@ -1,2 +1,2 @@
-# Phishing-Model
+# PhishingModel
 Phishing Email Detection Model
